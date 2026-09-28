@@ -1,4 +1,4 @@
-# Deploy a Python Flask App on AWS EC2 with Docker
+#Dockerizing a Python Flask App: Build, Run and Push to Docker Hub
 
 A step-by-step guide to running a Flask app on an AWS EC2 instance, packaging it as a Docker image, running it as a container, and publishing it to Docker Hub.
 
